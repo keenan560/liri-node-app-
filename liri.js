@@ -4,7 +4,6 @@ var Spotify = require('node-spotify-api');
 
 var keys = require("./keys.js");
 
-
 var spotify = new Spotify(keys.spotify);
 
 const axios = require('axios');
@@ -34,7 +33,7 @@ switch (userCommand) {
     case "do-what-it-says":
         doWhatItSays(userInput);
         break;
-}  
+}
 
 
 
@@ -47,7 +46,49 @@ function spotifyThisSong(userInput) {
 }
 
 function movieThis(userInput) {
-    console.log(`Check out ${userInput}`);
+    if (userInput === "") {
+        var userInput = "Mr. Nobody";
+        var url = " http://www.omdbapi.com/?i=tt3896198&apikey=1374377d&t=" + userInput;
+        axios.get(url)
+            .then(function (response) {
+                var obj = response.data;
+                var movie = {
+                    Title: obj.Title,
+                    Year: obj.Year,
+                    IMBD: obj.Ratings[0].Value,
+                    Rotten: obj.Ratings[1].Value,
+                    Country: obj.Country,
+                    Language: obj.Language,
+                    Plot: obj.Plot,
+                    Actors: obj.Actors
+                }
+
+                for (var key in movie) {
+                    console.log(`* ${key}: ${movie[key]}`);
+                }
+            });
+    } else {
+        var url = " http://www.omdbapi.com/?i=tt3896198&apikey=1374377d&t=" + userInput;
+        axios.get(url)
+            .then(function (response) {
+                var obj = response.data;
+                var movie = {
+                    Title: obj.Title,
+                    Year: obj.Year,
+                    IMBD: obj.Ratings[0].Value,
+                    Rotten: obj.Ratings[1].Value,
+                    Country: obj.Country,
+                    Language: obj.Language,
+                    Plot: obj.Plot,
+                    Actors: obj.Actors
+                }
+
+                for (var key in movie) {
+                    console.log(`* ${key}: ${movie[key]}`);
+                }
+            });
+
+    }
 
 }
 
