@@ -1,2 +1,487 @@
 Log the Search Results Here!
 
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Milan, Italy
+Venue location: Milan, Italy
+Date of Event: 07-02-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Zurich, Switzerland
+Venue location: Zürich, Switzerland
+Date of Event: 07-04-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Iffezheim, Germany
+Venue location: Iffezheim, Germany
+Date of Event: 07-06-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Birmingham, England
+Venue location: Birmingham, United Kingdom
+Date of Event: 07-09-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - London, England
+Venue location: Lodon, United Kingdom
+Date of Event: 07-11-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Manchester, England
+Venue location: Manchester, United Kingdom
+Date of Event: 07-12-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Newcastle, England
+Venue location: Newcastle, United Kingdom
+Date of Event: 07-14-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Glasgow, Scotland
+Venue location: Glasgow, Scotland
+Date of Event: 07-16-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Sunrise, FL
+Venue location: Sunrise, United States
+Date of Event: 08-06-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Charleston, SC
+Venue location: Charleston, United States
+Date of Event: 08-08-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Charlotte, NC
+Venue location: Charlotte, United States
+Date of Event: 08-10-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Bristow, VA
+Venue location: Bristow, United States
+Date of Event: 08-11-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Virginia Beach, VA
+Venue location: Virginia Beach, United States
+Date of Event: 08-13-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Newark, NJ
+Venue location: Newark, United States
+Date of Event: 08-14-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Montreal, QC
+Venue location: Montreal, Canada
+Date of Event: 08-16-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Toronto, ON
+Venue location: Toronto, Canada
+Date of Event: 08-17-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Brooklyn, NY
+Venue location: Brooklyn, United States
+Date of Event: 08-20-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Hershey, PA
+Venue location: Hershey, United States
+Date of Event: 08-21-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Darien Center, NY
+Venue location: Darien Center, United States
+Date of Event: 08-23-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Saratoga Springs, NY
+Venue location: Saratoga Springs, United States
+Date of Event: 08-24-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Syracuse, NY
+Venue location: Syracuse, United States
+Date of Event: 08-27-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Cincinnati, OH
+Venue location: Cincinnati, United States
+Date of Event: 08-29-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Indianapolis, IN
+Venue location: Indianapolis, United States
+Date of Event: 08-31-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - St. Louis, MO
+Venue location: Saint Francisville, United States
+Date of Event: 09-01-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Des Moines, IA
+Venue location: Des Moines, United States
+Date of Event: 09-03-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Little Rock, AR
+Venue location: North Little Rock, United States
+Date of Event: 09-05-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Bossier City, LA
+Venue location: Bossier City, United States
+Date of Event: 09-07-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - San Antonio, TX
+Venue location: San Antonio, United States
+Date of Event: 09-08-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Houston, TX
+Venue location: Houston, United States
+Date of Event: 09-09-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Albuquerque, NM
+Venue location: Albuquerque, United States
+Date of Event: 09-11-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Denver, CO
+Venue location: Denver, United States
+Date of Event: 09-12-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Salt Lake City, UT
+Venue location: Salt Lake City, United States
+Date of Event: 09-14-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Oakland, CA
+Venue location: Oakland, United States
+Date of Event: 09-16-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Los Angeles, CA
+Venue location: Los Angeles, United States
+Date of Event: 09-20-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Perth, Australia
+Venue location: Perth, Australia
+Date of Event: 11-16-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Adelaide, Australia
+Venue location: Adelaide, Australia
+Date of Event: 11-19-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Melbourne, Australia
+Venue location: Melbourne, Australia
+Date of Event: 11-21-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Melbourne, Australia
+Venue location: Melbourne, Australia
+Date of Event: 11-22-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Newcastle, Australia
+Venue location: Newcastle, Australia
+Date of Event: 11-23-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Sydney, Australia
+Venue location: Sydney Olympic Park, Australia
+Date of Event: 11-26-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Brisbane, Australia
+Venue location: Brisbane, Australia
+Date of Event: 11-28-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Auckland, New Zealand
+Venue location: Auckland, New Zealand
+Date of Event: 12-03-2019
+--------Bands In Town Results-------
+Venue name: ゼビオアリーナ仙台
+Venue location: 仙台市, 日本
+Date of Event: 12-08-2019
+--------Bands In Town Results-------
+Venue name: 東京ドーム
+Venue location: 文京区, 日本
+Date of Event: 12-11-2019
+--------Bands In Town Results-------
+Venue name: 盛岡タカヤアリーナ（盛岡市総合アリーナ）
+Venue location: 盛岡市, 日本
+Date of Event: 12-14-2019
+--------Bands In Town Results-------
+Venue name: 京セラドーム大阪
+Venue location: 大阪市, 日本
+Date of Event: 12-17-2019
+--------Bands In Town Results-------
+Venue name: Nagoya Aichiken Gymnasium
+Venue location: Nagoya, Japan
+Date of Event: 12-19-2019
+-----Spotify Results-----
+Artist Name: blink-182 
+Song: All The Small Things 
+Album: Enema Of The State 
+Song Preview Link: https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU 
+-------------------------------Spotify Results-----
+Artist Name: blink-182 
+Song: All The Small Things 
+Album: Greatest Hits 
+Song Preview Link: https://open.spotify.com/track/5uAzuQcZEufbP3NamOy2dH 
+-------------------------------Spotify Results-----
+Artist Name: Fame on Fire 
+Song: All the Small Things 
+Album: All the Small Things 
+Song Preview Link: https://open.spotify.com/track/1LZjoCST9GIznqC3CapYBC 
+-------------------------------Spotify Results-----
+Artist Name: Scott Bradlee's Postmodern Jukebox 
+Song: All The Small Things 
+Album: Fake Blues 
+Song Preview Link: https://open.spotify.com/track/4rHrFEePW9WTMYby9bdsUr 
+-------------------------------Spotify Results-----
+Artist Name: blink-182 
+Song: All The Small Things 
+Album: Enema Of The State / Take Off Your Pants And Jacket / Blink-182 
+Song Preview Link: https://open.spotify.com/track/6GNlT9P0NuFUplvZGH9zRo 
+-------------------------------Spotify Results-----
+Artist Name: Rockabye Baby! 
+Song: All the Small Things 
+Album: Lullaby Renditions of Blink-182 
+Song Preview Link: https://open.spotify.com/track/6VR2LQT41FYZ0mRhNVoTiT 
+-------------------------------Spotify Results-----
+Artist Name: Vitamin String Quartet 
+Song: All the Small Things 
+Album: Vitamin String Quartet Performs Blink-182 
+Song Preview Link: https://open.spotify.com/track/5hUqwjVEm5ot6XIgHyo43M 
+-------------------------------Spotify Results-----
+Artist Name: Imaginary Future 
+Song: All the Small Things 
+Album: All the Small Things 
+Song Preview Link: https://open.spotify.com/track/7khwt8bxTlY0HXEMuuvtsQ 
+-------------------------------Spotify Results-----
+Artist Name: blink-182 
+Song: All The Small Things 
+Album: I Won't Be Home For Christmas 
+Song Preview Link: https://open.spotify.com/track/2SzhNi1sjvIz29scIuBCb3 
+-------------------------------Spotify Results-----
+Artist Name: blink-182 
+Song: All The Small Things 
+Album: Greatest Hits 
+Song Preview Link: https://open.spotify.com/track/5P1Gz8lkRgmRYXgV84yoBf 
+-------------------------------Spotify Results-----
+Artist Name: blink-182 
+Song: All the Small Things 
+Album: Buona La Prima 
+Song Preview Link: https://open.spotify.com/track/1MLA9Ekf41frRUzVcSpa0O 
+-------------------------------Spotify Results-----
+Artist Name: Kidz Bop Kids 
+Song: All The Small Things 
+Album: Kidz Bop 
+Song Preview Link: https://open.spotify.com/track/0ppzUXDqE6fxfz75r6UkTQ 
+-------------------------------Spotify Results-----
+Artist Name: GFOTY 
+Song: All the Small Things 
+Album: GFOTYBUCKS 
+Song Preview Link: https://open.spotify.com/track/1V4Teb8rFKEpvXb5l6V6z3 
+-------------------------------Spotify Results-----
+Artist Name: blink-182 
+Song: All The Small Things 
+Album: Rock 90s 
+Song Preview Link: https://open.spotify.com/track/0fWyF4bJZGH13uqbH6I06O 
+-------------------------------Spotify Results-----
+Artist Name: blink-182 
+Song: All The Small Things 
+Album: 00s Anthems 
+Song Preview Link: https://open.spotify.com/track/1PHswiwVHOVgOz6zb8wMOf 
+-------------------------------Spotify Results-----
+Artist Name: Scary Pockets 
+Song: All the Small Things 
+Album: Funk-ish 
+Song Preview Link: https://open.spotify.com/track/2de3GUpjth9EMGu3jNj17r 
+-------------------------------Spotify Results-----
+Artist Name: Sparrow Sleeps 
+Song: All the Small Things 
+Album: Boob Ranch: Lullaby renditions of Blink 182 songs 
+Song Preview Link: https://open.spotify.com/track/0dqJ9yOWOwlNSBPvTb5Jh7 
+-------------------------------Spotify Results-----
+Artist Name: Abandoning Sunday 
+Song: All the Small Things 
+Album: Covers, Vol. 2 
+Song Preview Link: https://open.spotify.com/track/6gGvLLwhKGRbrrq4VyMfo1 
+-------------------------------Spotify Results-----
+Artist Name: Danny Wright 
+Song: All the Small Things 
+Album: All the Small Things 
+Song Preview Link: https://open.spotify.com/track/3c3hRpvSXB25H1rnNCKQUM 
+-------------------------------Spotify Results-----
+Artist Name: blink-182 
+Song: All The Small Things 
+Album: Runtastic - Power Workout (Vol. 1) 
+Song Preview Link: https://open.spotify.com/track/1v9yUlYhxqvo2NobGxuf0b 
+--------------------------
+-------------Movie-This Results----------- 
+Title: The Lion King 
+Year: 1994 
+IMBD: 8.5/10 
+Rotten: 93% 
+Country: USA 
+Language: English, Swahili, Xhosa, Zulu 
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities. 
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Milan, Italy
+Venue location: Milan, Italy
+Date of Event: 07-02-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Zurich, Switzerland
+Venue location: Zürich, Switzerland
+Date of Event: 07-04-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Iffezheim, Germany
+Venue location: Iffezheim, Germany
+Date of Event: 07-06-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Birmingham, England
+Venue location: Birmingham, United Kingdom
+Date of Event: 07-09-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - London, England
+Venue location: Lodon, United Kingdom
+Date of Event: 07-11-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Manchester, England
+Venue location: Manchester, United Kingdom
+Date of Event: 07-12-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Newcastle, England
+Venue location: Newcastle, United Kingdom
+Date of Event: 07-14-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Glasgow, Scotland
+Venue location: Glasgow, Scotland
+Date of Event: 07-16-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Sunrise, FL
+Venue location: Sunrise, United States
+Date of Event: 08-06-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Charleston, SC
+Venue location: Charleston, United States
+Date of Event: 08-08-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Charlotte, NC
+Venue location: Charlotte, United States
+Date of Event: 08-10-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Bristow, VA
+Venue location: Bristow, United States
+Date of Event: 08-11-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Virginia Beach, VA
+Venue location: Virginia Beach, United States
+Date of Event: 08-13-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Newark, NJ
+Venue location: Newark, United States
+Date of Event: 08-14-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Montreal, QC
+Venue location: Montreal, Canada
+Date of Event: 08-16-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Toronto, ON
+Venue location: Toronto, Canada
+Date of Event: 08-17-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Brooklyn, NY
+Venue location: Brooklyn, United States
+Date of Event: 08-20-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Hershey, PA
+Venue location: Hershey, United States
+Date of Event: 08-21-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Darien Center, NY
+Venue location: Darien Center, United States
+Date of Event: 08-23-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Saratoga Springs, NY
+Venue location: Saratoga Springs, United States
+Date of Event: 08-24-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Syracuse, NY
+Venue location: Syracuse, United States
+Date of Event: 08-27-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Cincinnati, OH
+Venue location: Cincinnati, United States
+Date of Event: 08-29-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Indianapolis, IN
+Venue location: Indianapolis, United States
+Date of Event: 08-31-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - St. Louis, MO
+Venue location: Saint Francisville, United States
+Date of Event: 09-01-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Des Moines, IA
+Venue location: Des Moines, United States
+Date of Event: 09-03-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Little Rock, AR
+Venue location: North Little Rock, United States
+Date of Event: 09-05-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Bossier City, LA
+Venue location: Bossier City, United States
+Date of Event: 09-07-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - San Antonio, TX
+Venue location: San Antonio, United States
+Date of Event: 09-08-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Houston, TX
+Venue location: Houston, United States
+Date of Event: 09-09-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Albuquerque, NM
+Venue location: Albuquerque, United States
+Date of Event: 09-11-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Denver, CO
+Venue location: Denver, United States
+Date of Event: 09-12-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Salt Lake City, UT
+Venue location: Salt Lake City, United States
+Date of Event: 09-14-2019
+--------Bands In Town Results-------
+Venue name: End Of The Road World Tour - Oakland, CA
+Venue location: Oakland, United States
+Date of Event: 09-16-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Los Angeles, CA
+Venue location: Los Angeles, United States
+Date of Event: 09-20-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Perth, Australia
+Venue location: Perth, Australia
+Date of Event: 11-16-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Adelaide, Australia
+Venue location: Adelaide, Australia
+Date of Event: 11-19-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Melbourne, Australia
+Venue location: Melbourne, Australia
+Date of Event: 11-21-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Melbourne, Australia
+Venue location: Melbourne, Australia
+Date of Event: 11-22-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Newcastle, Australia
+Venue location: Newcastle, Australia
+Date of Event: 11-23-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Sydney, Australia
+Venue location: Sydney Olympic Park, Australia
+Date of Event: 11-26-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Brisbane, Australia
+Venue location: Brisbane, Australia
+Date of Event: 11-28-2019
+--------Bands In Town Results-------
+Venue name: End of the Road World Tour - Auckland, New Zealand
+Venue location: Auckland, New Zealand
+Date of Event: 12-03-2019
+--------Bands In Town Results-------
+Venue name: ゼビオアリーナ仙台
+Venue location: 仙台市, 日本
+Date of Event: 12-08-2019
+--------Bands In Town Results-------
+Venue name: 東京ドーム
+Venue location: 文京区, 日本
+Date of Event: 12-11-2019
+--------Bands In Town Results-------
+Venue name: 盛岡タカヤアリーナ（盛岡市総合アリーナ）
+Venue location: 盛岡市, 日本
+Date of Event: 12-14-2019
+--------Bands In Town Results-------
+Venue name: 京セラドーム大阪
+Venue location: 大阪市, 日本
+Date of Event: 12-17-2019
+--------Bands In Town Results-------
+Venue name: Nagoya Aichiken Gymnasium
+Venue location: Nagoya, Japan
+Date of Event: 12-19-2019
