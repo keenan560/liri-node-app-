@@ -6,12 +6,6 @@ var Spotify = require('node-spotify-api');
 
 var keys = require("./keys.js");
 
-
-
-
-// var token = "BQDliFD1am7AHsYgTuA9rk3kxJ4cb7HGpDpN73LJMPeX3Abda4JsH2fJ1tPoqb0AQrklSud9e0JNgT9M9NsWCcpe631Osaa0LUBeGW-vfngci7nHiq8hcta4qelVjADVr0qtNi3fnplJi74BJ8TVQR7TGI0aMt0RmlURSK7L6d4tYmI";
-
-
 const axios = require('axios');
 
 var moment = require('moment');
@@ -58,16 +52,31 @@ function concertThis(userInput) {
 
 function spotifyThisSong(userInput) {
     var spotify = new Spotify(keys.spotify);
-    spotify.search({ type: 'track', query: userInput }, function (err, data) {
-        if (err) {
-            return console.log('Error occurred: ' + err);
-        }
 
-        var obj = data.tracks.items;
-        for (var i = 0; i < obj.length; i++) {
-            console.log(`Artist Name: ${obj[i].artists[0].name} \nSong: ${obj[i].name} \nAlbum: ${obj[i].album.name} \nSong Preview Link: ${obj[i].external_urls.spotify} \n--------------------------`);
-        }
-    });
+    if ( userInput === "") {
+        spotify.search({ type: 'track', query: "The Sign"}, function (err, data) {
+            if (err) {
+                return console.log('Error occurred: ' + err);
+            }
+
+            var obj = data.tracks.items;
+            for (var i = 0; i < obj.length; i++) {
+                console.log(`Artist Name: ${obj[i].artists[0].name} \nSong: ${obj[i].name} \nAlbum: ${obj[i].album.name} \nSong Preview Link: ${obj[i].external_urls.spotify} \n--------------------------`);
+            }
+        });
+    } else {
+        spotify.search({ type: 'track', query: userInput }, function (err, data) {
+            if (err) {
+                return console.log('Error occurred: ' + err);
+            }
+
+            var obj = data.tracks.items;
+            for (var i = 0; i < obj.length; i++) {
+                console.log(`Artist Name: ${obj[i].artists[0].name} \nSong: ${obj[i].name} \nAlbum: ${obj[i].album.name} \nSong Preview Link: ${obj[i].external_urls.spotify} \n--------------------------`);
+            }
+        });
+    }
+
 
 
 }
@@ -113,6 +122,10 @@ function movieThis(userInput) {
                 for (var key in movie) {
                     console.log(`* ${key}: ${movie[key]}`);
                 }
+
+                fs.appendFile('log.txt', `\n-------------Movie-This Results----------- \nTitle: ${movie.Title} \nYear: ${movie.Year} \nIMBD: ${movie.IMBD} \nRotten: ${movie.Rotten} \nCountry: ${movie.Country} \nLanguage: ${movie.Language} \nPlot: ${movie.Plot} \nActors: ${movie.Actors}`,  function(err, movie) {
+                    if (err) throw err;
+                });
             });
 
     }

@@ -1,1 +1,29 @@
 Log the Search Results Here!
+
+Movie-This Results 
+Title: The Lion King 
+Year: 1994 
+IMBD: 8.5/10 
+Rotten: 93% 
+Country: USA 
+Language: English, Swahili, Xhosa, Zulu 
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities. 
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+Movie-This Results 
+Title: The Lion King 
+Year: 1994 
+IMBD: 8.5/10 
+Rotten: 93% 
+Country: USA 
+Language: English, Swahili, Xhosa, Zulu 
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities. 
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+-------------Movie-This Results----------- 
+Title: The Lion King 
+Year: 1994 
+IMBD: 8.5/10 
+Rotten: 93% 
+Country: USA 
+Language: English, Swahili, Xhosa, Zulu 
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities. 
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
