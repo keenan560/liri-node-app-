@@ -53,6 +53,6 @@ Goal - Whenever the User executes 1 of 4 commands below the Command and User Inp
 
 Below is a link to a short video demonstration. Enjoy.
 
-Demo: https://youtu.be/_tsEo128nM4
+Demo: https://www.youtube.com/watch?v=GSkQRmaX5DQ&feature=youtu.be
 
 
