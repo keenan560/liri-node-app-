@@ -41,10 +41,19 @@ function concertThis(userInput) {
     var url = "https://rest.bandsintown.com/artists/" + userInput + "/events?app_id=codingbootcamp";
     axios.get(url)
         .then(function (response) {
+
             var obj = response.data;
+            var results = [];
+
             for (var i = 0; i < obj.length; i++) {
-                console.log(` Venue name: ${obj[i].venue.name}\n Venue location: ${obj[i].venue.city}, ${obj[i].venue.country}\n Date of Event: ${moment(obj[i].datetime).format("MM-DD-YYYY")}\n`);
+                console.log(`--------Bands In Town Results-------\nVenue name: ${obj[i].venue.name}\nVenue location: ${obj[i].venue.city}, ${obj[i].venue.country}\nDate of Event: ${moment(obj[i].datetime).format("MM-DD-YYYY")}\n`);
+                results.push(`--------Bands In Town Results-------\nVenue name: ${obj[i].venue.name}\nVenue location: ${obj[i].venue.city}, ${obj[i].venue.country}\nDate of Event: ${moment(obj[i].datetime).format("MM-DD-YYYY")}\n`);
             }
+
+            fs.appendFile("log.txt", results.join(""), function(err, results){
+                if (err) throw err;
+            })
+
 
         });
 
@@ -58,11 +67,19 @@ function spotifyThisSong(userInput) {
             if (err) {
                 return console.log('Error occurred: ' + err);
             }
-
+        
             var obj = data.tracks.items;
+            var results = [];
+
             for (var i = 0; i < obj.length; i++) {
                 console.log(`Artist Name: ${obj[i].artists[0].name} \nSong: ${obj[i].name} \nAlbum: ${obj[i].album.name} \nSong Preview Link: ${obj[i].external_urls.spotify} \n--------------------------`);
+                results.push(`-----Spotify Results-----\nArtist Name: ${obj[i].artists[0].name} \nSong: ${obj[i].name} \nAlbum: ${obj[i].album.name} \nSong Preview Link: ${obj[i].external_urls.spotify} \n--------------------------`);
             }
+
+            fs.appendFile("log.txt", results.join(''), function(err, results) {
+                if (err) throw err;
+            })
+
         });
     } else {
         spotify.search({ type: 'track', query: userInput }, function (err, data) {
@@ -71,9 +88,18 @@ function spotifyThisSong(userInput) {
             }
 
             var obj = data.tracks.items;
+            var results = [];
+
             for (var i = 0; i < obj.length; i++) {
                 console.log(`Artist Name: ${obj[i].artists[0].name} \nSong: ${obj[i].name} \nAlbum: ${obj[i].album.name} \nSong Preview Link: ${obj[i].external_urls.spotify} \n--------------------------`);
+                results.push(`-----Spotify Results-----\nArtist Name: ${obj[i].artists[0].name} \nSong: ${obj[i].name} \nAlbum: ${obj[i].album.name} \nSong Preview Link: ${obj[i].external_urls.spotify} \n--------------------------`);
             }
+            
+            fs.appendFile("log.txt",results.join(""), function(err, obj) {
+                if (err) throw err;
+               
+            });
+       
         });
     }
 
@@ -102,6 +128,11 @@ function movieThis(userInput) {
                 for (var key in movie) {
                     console.log(`* ${key}: ${movie[key]}`);
                 }
+
+                fs.appendFile('log.txt', `\n-------------Movie-This Results----------- \nTitle: ${movie.Title} \nYear: ${movie.Year} \nIMBD: ${movie.IMBD} \nRotten: ${movie.Rotten} \nCountry: ${movie.Country} \nLanguage: ${movie.Language} \nPlot: ${movie.Plot} \nActors: ${movie.Actors}`, function (err, movie) {
+                    if (err) throw err;
+                });
+
             });
     } else {
         var url = " http://www.omdbapi.com/?i=tt3896198&apikey=1374377d&t=" + userInput;
